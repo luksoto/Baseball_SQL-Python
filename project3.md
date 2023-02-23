@@ -2,7 +2,7 @@
 __Lucas Soto__
 
 ## Elevator pitch
-####The data that I analyzed this time is compund by all the information recorded for many years about the  Major baseball League. The data is divided in different tables adn in this case I used three of these tables to make my analysis.  
+The data that I analyzed this time is compund by all the information recorded for many years about the  Major baseball League. The data is divided in different tables adn in this case I used three of these tables to make my analysis.  
 ### GRAND QUESTION 1
 #### Write an SQL query to create a new dataframe about baseball players who attended BYU-Idaho. The new table should contain five columns: playerID, schoolID, salary, and the yearID/teamID associated with each salary. Order the table by salary (highest to lowest) and print out the table in your report.
 
